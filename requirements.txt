@@ -1,0 +1,24 @@
+# BlaXk Aggregator - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# PDF Generation (for PDF export)
+reportlab>=4.0.0
+
+# Document Reading Support
+# --------------------------
+# PDF Reading
+PyPDF2>=3.0.0
+
+# Word Document Reading (.docx, .doc)
+python-docx>=1.0.0
+
+# Excel Reading (.xlsx, .xls)
+openpyxl>=3.1.0
+
+# Optional: Better CLI experience
+colorama>=0.4.6
+
+# Optional: Progress bars for large file processing
+tqdm>=4.66.0
+
+# Note: CSV and XML support is included in Python's standard library
