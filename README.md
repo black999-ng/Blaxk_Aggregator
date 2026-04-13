@@ -146,8 +146,6 @@ For detailed Python CLI documentation, see [README_PYTHON.md](README_PYTHON.md)
 
 ---
 
-## 📸 Screenshots
-
 ### Main Interface
 - **Upload Area** - Drag & drop or click to select
 - **File List** - View and manage selected files
@@ -222,20 +220,6 @@ JavaScript, TypeScript, Python, Java, C++, C#, Ruby, Go, Rust, PHP, Swift, Kotli
 
 ---
 
-## 🎯 Roadmap
-
-### Upcoming Features
-- [ ] GitHub integration (import directly from repos)
-- [ ] Syntax highlighting in PDF exports
-- [ ] Custom templates and presets
-- [ ] Batch processing automation
-- [ ] VS Code extension
-- [ ] Browser extension
-- [ ] Cloud storage integration (optional)
-- [ ] Diff mode (compare compilations)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -263,14 +247,7 @@ Have questions or issues?
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ for developers who need to aggregate code files.
-
-Special thanks to:
-- React team for the amazing framework
-- Vite for lightning-fast builds
-- Tailwind CSS for beautiful styling
-- jsPDF for client-side PDF generation
-- ReportLab for Python PDF support
+I made this for me though, feel free to use it LOL
 
 ---
 
